@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/Thijzert123/serverfreeze/refs/heads/main/serverfreeze/pack.png">
+</p>
+
 # ServerFreeze
 ServerFreeze is a Minecraft Data pack that pauses the game when no players are online. This is to save resources without shutting down the server or to preserve the game time (day/night cycle will pause when nobody is online).
 
